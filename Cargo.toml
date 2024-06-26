@@ -7,14 +7,9 @@ description = "Analyze, compare, predict, and optimize trading strategies based 
 repository = "https://github.com/midnightquark/trader"
 license = "MIT"
 keywords = [
-    "cryptocurrency",
-    "trading",
-    "machine-learning",
     "technical-analysis",
     "market-prediction",
     "risk-management",
-    "crypto",
-    "portfolio-optimization",
     "financial-analysis",
     "automated-trading"
 ]
