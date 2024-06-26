@@ -1,0 +1,22 @@
+[package]
+name = "trader"
+version = "0.1.0"
+edition = "2021"
+authors = ["Sol Midnight <sol.midnight@blockglow.com>"]
+description = "Analyze, compare, predict, and optimize trading strategies based on market and account conditions."
+repository = "https://github.com/midnightquark/trader"
+license = "MIT"
+keywords = [
+    "cryptocurrency",
+    "trading",
+    "machine-learning",
+    "technical-analysis",
+    "market-prediction",
+    "risk-management",
+    "crypto",
+    "portfolio-optimization",
+    "financial-analysis",
+    "automated-trading"
+]
+
+[dependencies]
